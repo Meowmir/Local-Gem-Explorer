@@ -3,4 +3,5 @@
     <string name="place_thumbnail_description">Placeholder description</string>
     <string name="short_description_of_the_place">Short description of the place</string>
     <string name="place_name">Place name</string>
+    <string name="long_description_of_the_place">Long description of the place</string>
 </resources>

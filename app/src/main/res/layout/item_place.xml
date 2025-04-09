@@ -16,7 +16,7 @@
         >
 
         <ImageView
-            android:id="@+id/imageView"
+            android:id="@+id/place_image"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:contentDescription="@string/place_thumbnail_description"
@@ -45,7 +45,7 @@
                 android:id="@+id/place_description"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/short_description_of_the_place"
+                android:text="@string/longer_description_of_the_place"
                 android:textSize="14sp"
                 />
         </LinearLayout>
